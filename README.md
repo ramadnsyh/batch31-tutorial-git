@@ -60,3 +60,5 @@
         - `git branch <nama branch>` buat branch baru
         - `git checkout <nama branch>` pindah ke branch tersebut
         - `git checkout -b <nama branch>` buat baru dan pindah branch
+    - Buat Pull Request Baru
+    - Review Pull Request dan Merge Pull Request
